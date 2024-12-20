@@ -1,10 +1,9 @@
 
 # User Card with Dark Mode Toggle
 
-This project is a simple React application that displays a user profile card. The app fetches random user data from the [RandomUser API](https://randomuser.me/). It supports both system dark mode and manual dark mode toggle. 
+This project is a simple React application that displays a user profile card. The app fetches random user data from the [RandomUser API](https://randomuser.me/). It supports manual dark mode toggle. 
 
 ## Features
-- **System Dark Mode**: The app automatically detects and applies dark mode based on the system preference.
 - **Manual Dark Mode Toggle**: Users can toggle between light and dark modes using a button.
 - **Responsive Design**: The card adjusts properly to different screen sizes.
 - **Profile Picture**: Displays a user avatar fetched from the RandomUser API.
