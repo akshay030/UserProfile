@@ -69,6 +69,4 @@ The dark mode toggle button is located in the top-right corner of the card. It a
 
 The project is configured with Tailwind CSS and supports **system dark mode** by default. The `darkMode: 'media'` option is enabled in `tailwind.config.js` to automatically adjust the app to the user's system preference for dark or light mode.
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
